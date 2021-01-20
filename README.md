@@ -1,3 +1,3 @@
 # Leetcode solutions
 
-Random leetcode solutions in Rust for at least some problems.
+Leetcode solutions, mostly in Rust but also some other languages.
