@@ -14,7 +14,7 @@ impl Solution {
             '7' => vec!["p", "q", "r", "s"],
             '8' => vec!["t", "u", "v"],
             '9' => vec!["w", "x", "y", "z"],
-            _ => panic!(format!("Unsupported character {}", ch)),
+            _ => panic!("Unsupported character"),
         }
     }
 
