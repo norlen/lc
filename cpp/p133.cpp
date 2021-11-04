@@ -1,7 +1,5 @@
 // [133. Clone Graph](https://leetcode.com/problems/clone-graph/)
-#include <vector>
-#include <deque>
-#include <unordered_map>
+#include <bits/stdc++.h>
 
 using namespace std;
 

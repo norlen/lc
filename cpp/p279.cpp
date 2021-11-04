@@ -1,6 +1,5 @@
 // [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
-#include <vector>
-#include <unordered_set>
+#include <bits/stdc++.h>
 
 using namespace std;
 

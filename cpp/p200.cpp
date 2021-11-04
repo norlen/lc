@@ -1,7 +1,5 @@
 // [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
-#include <iostream>
-#include <vector>
-#include <stack>
+#include <bits/stdc++.h>
 
 using namespace std;
 
