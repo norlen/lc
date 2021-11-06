@@ -1,5 +1,5 @@
 // [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
-#include <bits/stdc++>
+#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {

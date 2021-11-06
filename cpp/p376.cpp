@@ -1,6 +1,5 @@
 // [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
 #include <bits/stdc++.h>
-
 using namespace std;
 
 class Solution {

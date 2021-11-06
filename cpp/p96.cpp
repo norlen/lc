@@ -1,7 +1,5 @@
 // [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
-#include <unordered_map>
-#include <vector>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {

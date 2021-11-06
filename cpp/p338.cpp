@@ -1,6 +1,5 @@
 // [338. Counting Bits](https://leetcode.com/problems/counting-bits/)
 #include <bits/stdc++.h>
-
 using namespace std;
 
 class Solution {

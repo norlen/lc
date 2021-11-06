@@ -1,7 +1,7 @@
-#include <deque>
+#include <bits/stdc++.h>
 #include "def.h"
-
 using namespace std;
+
 class Solution {
 public:
     Node* connect(Node* root) {

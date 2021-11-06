@@ -1,8 +1,5 @@
 // [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
-#include <string>
-#include <unordered_map>
-#include <vector>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {
